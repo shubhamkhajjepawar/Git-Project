@@ -5,4 +5,5 @@ Welcome to Git.........
 
 change for feature - login
 
-change for feature - logout
+Change to fix -bug1
+changes from the remote server
