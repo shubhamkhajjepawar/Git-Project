@@ -4,6 +4,7 @@ Welcome to Git.........
 
 
 change for feature - login
-
 Change to fix -bug1
 changes from the remote server
+fix bug1
+fix bug2
