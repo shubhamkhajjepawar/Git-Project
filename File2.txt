@@ -4,6 +4,10 @@ for updating adding item to list
 m,sf.dnmflsdnhl vfnsl 
 
 
-Change - the file  to check push to remote server
-Change - from the server on remote server
-change - done on remote server
+
+change 1-? the file  to check push to remote server
+change 2-?from the server on remote server
+
+change 3-? at  local master
+
+change  4- done on remote server
